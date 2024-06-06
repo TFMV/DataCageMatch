@@ -8,30 +8,6 @@ This project benchmarks the performance of Pandas and DuckDB for loading and que
 
 ## Setup
 
-### Prerequisites
-
-- Python 3.7+
-- Virtual Environment (optional but recommended)
-
-### Install Dependencies
-
-1. Clone the repository:
-    ```sh
-    git clone <repository-url>
-    cd <repository-directory>
-    ```
-
-2. Create and activate a virtual environment (optional):
-    ```sh
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    ```
-
-3. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 ### Dataset
 
 Ensure the TPCH datasets (`lineitem` and `orders` tables in Parquet format) are available in the specified data directory (`data/pvd-tfmv/`).
