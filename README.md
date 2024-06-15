@@ -1,6 +1,6 @@
 # Pandas vs. DuckDB Benchmarking Experiment
 
-![pvd](assets/pvd.webp)
+![pvd](assets/cage.webp)
 
 ## Overview
 
