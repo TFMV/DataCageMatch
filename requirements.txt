@@ -2,3 +2,4 @@ pandas
 duckdb
 pyarrow
 pyyaml
+polars
