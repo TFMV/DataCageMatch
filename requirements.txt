@@ -3,3 +3,5 @@ duckdb
 pyarrow
 pyyaml
 polars
+matplotlib
+fpdf
