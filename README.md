@@ -1,4 +1,4 @@
-# Pandas vs. DuckDB Benchmarking Experiment
+# Pandas vs. DuckDB vs. Polars Benchmarking Experiment
 
 ![pvd](assets/cage.webp)
 
